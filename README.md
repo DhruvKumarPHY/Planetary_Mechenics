@@ -3,7 +3,7 @@ The application of Physics on BIG SCALES
 
 1}
 
-![Uploading Screenshot 2022-03-09 at 3.46.40 PM.png…]()
+<img width="542" alt="Screenshot 2022-03-09 at 3 46 40 PM" src="https://user-images.githubusercontent.com/99118678/157430115-726214fc-11e6-47b4-9915-d7312697b41e.png">
 
 2}
 
